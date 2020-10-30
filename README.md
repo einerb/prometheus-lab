@@ -11,6 +11,7 @@ This laboratory was made with the purpose of showing the basic and fundamental o
 # Requirements!
   - **npm - v6.14.6**
   - **Node JS - v12.18.3**
+  - **Image Docker Prometheus**
   
 
 ### Installation
